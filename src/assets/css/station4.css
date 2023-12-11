@@ -11,7 +11,7 @@ header {
     padding: 5px;
     width: 300px;
     height: 275px;
-    position:relative;
+    position: relative;
     left: 75px;
     top: 100px;
 }
@@ -26,14 +26,14 @@ img {
     color: #282828;
     margin: 5px;
     font-size: 14px;
-    line-height: 10px;
+    line-height: 13px;
 }
 
 .card__description {
     color: #282828;
     margin: 5px;
     font-size: 12px;
-    line-height: 10px
+    line-height: 13px
 }
 
 body {
